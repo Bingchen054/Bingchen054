@@ -2,14 +2,10 @@
 
 <p align="center">
   <strong>
-    A researcher in urban economics and spatial data science,<br>
-    passionate about policy modeling, econometrics, and open data 🌏📊
+    A researcher in urban economics and spatial data science, passionate about policy modeling, econometrics, and open data 🌏📊. I'm a master's student in Spatial Economics and Data Analysis at USC.
   </strong>
 </p>
 
-<p align="center">
-  I'm a master's student in Spatial Economics and Data Analysis at USC.
-</p>
 
 
 - 🛠 I’m currently working on: [Urban Carbon Project](#)
