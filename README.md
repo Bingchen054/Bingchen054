@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bingchen (李炳辰)</h1>
 
-<div align="center" style="font-size: 20px; line-height: 1.8; font-weight: bold;">
-  A researcher in urban economics and spatial data science,<br>
-  passionate about policy modeling, econometrics, and open data 🌏📊.<br>
-  I'm a master's student in Spatial Economics and Data Analysis at USC.
-</div>
+<p align="center">
+  <strong style="font-size: 18px; line-height: 1.8;">
+    A researcher in urban economics and spatial data science,<br>
+    passionate about policy modeling, econometrics, and open data 🌏📊.<br>
+    I'm a master's student in Spatial Economics and Data Analysis at USC.
+  </strong>
+</p>
 
 <br>
 
