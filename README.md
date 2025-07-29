@@ -12,7 +12,6 @@ I'm a master's student in Spatial Economics and Data Analysis at USC.
 - 📮 Reach me at: libingch@usc.edu
 - 💬 Ask me about: urban policy, spatial econometrics, and green finance
 
-## 🔗 Connect with me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/your_twitter_username" target="blank">
@@ -34,7 +33,3 @@ I'm a master's student in Spatial Economics and Data Analysis at USC.
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/stata.png" alt="stata" width="80" height="30"/>
-  </a>
-</p>
