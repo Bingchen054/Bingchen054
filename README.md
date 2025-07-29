@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bingchen (李炳辰)</h1>
 
 <p align="center">
-  A researcher in urban economics and spatial data science, passionate about policy modeling, econometrics, and open data 🌍📊
+  <strong>
+    A researcher in urban economics and spatial data science,<br>
+    passionate about policy modeling, econometrics, and open data 🌏📊
+  </strong>
 </p>
 
-I'm a master's student in Spatial Economics and Data Analysis at USC.
+<p align="center">
+  I'm a master's student in Spatial Economics and Data Analysis at USC.
+</p>
+
 
 - 🛠 I’m currently working on: [Urban Carbon Project](#)
 - 🌱 I’m learning: GIS, Python, and econometrics
