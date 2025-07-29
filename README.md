@@ -1,9 +1,8 @@
----
-layout: home
-title: Bingchen Li
----
+<h1 align="center">Hi 👋, I'm Bingchen (李炳辰)</h1>
 
-## Hi 👋, I'm Bingchen
+<p align="center">
+  A researcher in urban economics and spatial data science, passionate about policy modeling, econometrics, and open data 🌍📊
+</p>
 
 I'm a master's student in Spatial Economics and Data Analysis at USC.
 
