@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bingchen (李炳辰)</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bingchen054&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <strong style="font-size: 18px; line-height: 1.8;">
