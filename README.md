@@ -35,6 +35,6 @@ I'm a master's student in Spatial Economics and Data Analysis at USC.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stata/stata-original.svg" alt="stata" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Stata_logo.png" alt="stata" width="40" height="40"/>
   </a>
 </p>
