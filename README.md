@@ -76,24 +76,11 @@
   </a>
 
   <!-- Machine Learning -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg"
-         alt="scikit-learn" width="40" height="40"/>
-  </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
          alt="pytorch" width="40" height="40"/>
   </a>
 
-  <!-- LLM / NLP -->
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg"
-         alt="huggingface" width="40" height="40"/>
-  </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg"
-         alt="langchain" width="40" height="40"/>
-  </a>
 
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
